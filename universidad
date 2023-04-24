@@ -1,0 +1,1892 @@
+
+<!DOCTYPE html>
+<html  dir="ltr" lang="es" xml:lang="es">
+<head>
+    <title>Cuestionario corto: transformación de la variable independiente (página 1 de 5)</title>
+    <link rel="icon" href="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/theme/1679436805/favicon" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Cuestionario corto: transformación de la variable independiente (página 1 de 5)" />
+<link rel="stylesheet" type="text/css" href="https://uvirtual.uisrael.edu.ec/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://uvirtual.uisrael.edu.ec/theme/styles.php/adaptable/1679436805_1/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/uvirtual.uisrael.edu.ec","homeurl":{},"sesskey":"ZOe9ztegXK","sessiontimeout":"28800","sessiontimeoutwarning":"1200","themerev":"1679436805","slasharguments":1,"theme":"adaptable","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1679436805","admin":"admin","svgicons":true,"usertimezone":"Am\u00e9rica\/Guayaquil","courseId":268,"courseContextId":7119,"contextid":36771,"contextInstanceId":30004,"langrev":1682069593,"templaterev":"1679436805"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/yui_combo.php?m\/1679436805\/","combine":true,"comboBase":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/yui_combo.php?","ext":false,"root":"m\/1679436805\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-beautify":{},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1679436805\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@2.7.9\/MathJax.js?delayStartupUntil=configured"},"core_question_flags":{"name":"core_question_flags","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/question\/flags.js","requires":["base","dom","event-delegate","io-base"]},"core_question_engine":{"name":"core_question_engine","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/question\/qengine.js","requires":["node","event"]},"mod_quiz":{"name":"mod_quiz","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/mod\/quiz\/module.js","requires":["base","dom","event-delegate","event-key","core_question_engine"]}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+    <!-- CSS print media -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:site" value="EVA-Modalidad Presencial, Semipresencial, Distancia y Online" />
+    <meta name="twitter:title" value="Cuestionario corto: transformación de la variable independiente (página 1 de 5)" />
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Cuestionario corto: transformación de la variable independiente (página 1 de 5)" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta name="og:site_name" value="EVA-Modalidad Presencial, Semipresencial, Distancia y Online" />
+
+    <!-- Chrome, Firefox OS and Opera on Android topbar color -->
+    <meta name="theme-color" content="#3A454b" />
+
+    <!-- Windows Phone topbar color -->
+    <meta name="msapplication-navbutton-color" content="#3A454b" />
+
+    <!-- iOS Safari topbar color -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#3A454b" />
+
+    </head>
+<body  id="page-mod-quiz-attempt" class="format-etask limitedwidth  path-mod path-mod-quiz chrome dir-ltr lang-es yui-skin-sam yui3-skin-sam uvirtual-uisrael-edu-ec pagelayout-incourse course-268 context-36771 cmid-30004 cm-type-quiz category-40 theme_adaptable two-column  header-style1 has-page-header  nomobilenavigation">
+
+<div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Salta al contenido principal</a>
+</div><script src="https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/polyfills/polyfill.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/core/jquery-3.6.1.min.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/theme_adaptable/pace-min.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/theme_adaptable/jquery-flexslider-min.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/theme_adaptable/tickerme.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/theme_adaptable/jquery-easing-min.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/theme/jquery.php/theme_adaptable/adaptable_v2_1_1_2.js"></script>
+<script src="https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+<div id="page-wrapper">
+    <div id="page" class="fullin showblockicons standard">
+    <header id="adaptable-page-header-wrapper">
+    <div id="header1" class="above-header stickything">
+        <div class="container">
+            <nav class="navbar navbar-expand btco-hover-menu">
+                <div id="adaptable-page-header-nav-drawer" data-region="drawer-toggle" class="d-lg-none mr-3">
+                    <button id="drawer" aria-expanded="false" aria-controls="nav-drawer" type="button" class="nav-link float-sm-left mr-1" data-side="left">
+                        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+                        <span class="sr-only">Panel lateral</span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse">
+                <div class="my-auto m-1"></div>
+                    <ul class="navbar-nav ml-auto my-auto">
+
+                        <li class="nav-item navbarsearchsocial mx-md-1 my-auto d-md-block d-lg-none my-auto">
+                            <div id="searchinput-navbar-6445ee7d36e426445ee7d238905" class="simplesearchform">
+    <div class="collapse" id="searchform-navbar">
+        <form autocomplete="off" action="https://uvirtual.uisrael.edu.ec/course/search.php" method="get" accept-charset="utf-8" class="mform form-inline searchform-navbar">
+                <input type="hidden" name="context" value="36771">
+            <div class="input-group">
+                <label for="searchinput-6445ee7d36e426445ee7d238905">
+                    <span class="sr-only">Course search</span>
+                </label>
+                    <input type="text"
+                       id="searchinput-6445ee7d36e426445ee7d238905"
+                       class="form-control withclear"
+                       placeholder="Course search"
+                       aria-label="Course search"
+                       name="q"
+                       data-region="input"
+                       autocomplete="off"
+                    >
+                    <a class="btn btn-close"
+                        data-action="closesearch"
+                        data-toggle="collapse"
+                        href="#searchform-navbar"
+                        role="button"
+                    >
+                        <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Cerrar</span>
+                    </a>
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-submit" data-action="submit">
+                        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Course search</span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <a
+        class="btn btn-open rounded-0 nav-link"
+        data-toggle="collapse"
+        data-action="opensearch"
+        href="#searchform-navbar"
+        role="button"
+        aria-expanded="false"
+        aria-controls="searchform-navbar"
+        title="Selector de búsqueda de entrada"
+    >
+        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+        <span class="sr-only">Selector de búsqueda de entrada</span>
+    </a>
+</div>
+                        </li>
+
+                        <li id="nav-popover-container" class="my-auto mx-md-1 d-flex"><div class="popover-region collapsed popover-region-notifications"
+    id="nav-notification-popover-container" data-userid="4127"
+    data-region="popover-region">
+    <div class="popover-region-toggle nav-link icon-no-margin"
+        data-region="popover-region-toggle"
+        role="button"
+        aria-controls="popover-region-container-6445ee7d37ddf6445ee7d238907"
+        aria-haspopup="true"
+        aria-label="  Mostrar la ventana de notificaciones con 3 notificaciones nuevas  "
+        tabindex="0">
+                <i class="icon fa fa-bell-o fa-fw "  title="Mostrar/ocultar menú de notificaciones" role="img" aria-label="Mostrar/ocultar menú de notificaciones"></i>
+        <div
+            class="count-container "
+            data-region="count-container"
+            aria-hidden=true
+        >
+            3
+        </div>
+
+    </div>
+    <div 
+        id="popover-region-container-6445ee7d37ddf6445ee7d238907"
+        class="popover-region-container"
+        data-region="popover-region-container"
+        aria-expanded="false"
+        aria-hidden="true"
+        aria-label="Ventana de notificación"
+        role="region">
+        <div class="popover-region-header-container">
+            <h3 class="popover-region-header-text" data-region="popover-region-header-text">Notificaciones</h3>
+            <div class="popover-region-header-actions" data-region="popover-region-header-actions">        <a class="mark-all-read-button"
+           href="#"
+           title="Marcar como leído"
+           data-action="mark-all-read"
+           role="button"
+           aria-label="Marcar como leído">
+            <span class="normal-icon"><i class="icon fa fa-check fa-fw " aria-hidden="true"  ></i></span>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+        </a>
+            <a href="https://uvirtual.uisrael.edu.ec/message/notificationpreferences.php"
+               title="Preferencias de notificación"
+               aria-label="Preferencias de notificación">
+                <i class="icon fa fa-cog fa-fw " aria-hidden="true"  ></i></a>
+</div>
+        </div>
+        <div class="popover-region-content-container" data-region="popover-region-content-container">
+            <div class="popover-region-content" data-region="popover-region-content">
+                        <div class="all-notifications"
+            data-region="all-notifications"
+            role="log"
+            aria-busy="false"
+            aria-atomic="false"
+            aria-relevant="additions"></div>
+        <div class="empty-message" tabindex="0" data-region="empty-message">No tienes notificaciones</div>
+
+            </div>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+        </div>
+                <a class="see-all-link"
+                    href="https://uvirtual.uisrael.edu.ec/message/output/popup/notifications.php">
+                    <div class="popover-region-footer-container">
+                        <div class="popover-region-seeall-text">Ver todo</div>
+                    </div>
+                </a>
+    </div>
+</div><div class="pull-right popover-region popover-region-messages collapsed">
+    <a id="message-drawer-toggle-6445ee7d38c816445ee7d238908" class="nav-link d-inline-block popover-region-toggle position-relative" href="#"
+            role="button">
+        <i class="icon fa fa-comment-o fa-fw "  title="Mostrar/ocultar cajón de mensajería" role="img" aria-label="Mostrar/ocultar cajón de mensajería"></i>
+        <div class="count-container hidden" data-region="count-container"
+        aria-label="Hay 0 conversaciones sin leer">0</div>
+    </a>
+</div></li>
+
+                        <li class="nav-item dropdown ml-2 my-auto"></li>
+
+                        
+
+                        <li class="nav-item dropdown ml-3 ml-md-2 mr-2 mr-md-0"><a class="nav-link dropdown-toggle my-auto" role="button" href="#"
+id="usermenu" data-toggle="dropdown"
+aria-haspopup="true" aria-expanded="false"
+aria-controls="usermenu-dropdown"
+aria-label="Menú del Usuario"
+title="Rivera Ruiz Bryan Josue">
+        <span class="d-none d-md-inline-block mx-1">Rivera Ruiz Bryan Josue</span>
+    <span class="userinitials size-35">RB</span>
+</a>
+
+<div class="dropdown-menu dropdown-menu-right" role="menu"
+id="usermenu-dropdown"
+aria-labelledby="usermenu" >
+    <a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/my" title="Área personal"><i aria-hidden="true" class="fa fa-dashboard"></i>Área personal</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/user/profile.php" title="Ver perfil"><i aria-hidden="true" class="fa fa-user"></i>Ver perfil</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/user/edit.php" title="Editar perfil"><i aria-hidden="true" class="fa fa-cog"></i>Editar perfil</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/grade/report/overview/index.php" title="Calificaciones"><i aria-hidden="true" class="fa fa-list-alt"></i>Calificaciones</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/user/preferences.php" title="Preferencias"><i aria-hidden="true" class="fa fa-cog"></i>Preferencias</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/calendar/view.php" title="Calendario"><i aria-hidden="true" class="fa fa-calendar"></i>Calendario</a><a class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/login/logout.php?sesskey=ZOe9ztegXK" title="Cerrar sesión"><i aria-hidden="true" class="fa fa-sign-out"></i>Cerrar sesión</a>
+</div></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div id="page-header" class="container d-none d-lg-block">
+        <div class="row d-flex justify-content-start align-items-center h-100 ">
+            <div class="col-lg-8 p-0">
+                <div class="bd-highlight d-flex">
+                    
+                    <div id="sitetitle" class="bd-highlight pt-2 d-none d-lg-inline-block"><h1 id="coursetitle">Procesamiento Digita ...</h1></div>
+                </div>
+                <div id="course-header">
+                    
+                </div>
+            </div>
+            <div class="col-lg-4">
+                    <div class="headersearch pagelayoutoriginal d-none d-lg-block float-right">
+    <div id="searchinput-navbar-6445ee7d371766445ee7d238906" class="simplesearchform">
+    <div class="collapse" id="searchform-navbar">
+        <form autocomplete="off" action="https://uvirtual.uisrael.edu.ec/course/search.php" method="get" accept-charset="utf-8" class="mform form-inline searchform-navbar">
+                <input type="hidden" name="context" value="36771">
+            <div class="input-group">
+                <label for="searchinput-6445ee7d371766445ee7d238906">
+                    <span class="sr-only">Course search</span>
+                </label>
+                    <input type="text"
+                       id="searchinput-6445ee7d371766445ee7d238906"
+                       class="form-control withclear"
+                       placeholder="Course search"
+                       aria-label="Course search"
+                       name="q"
+                       data-region="input"
+                       autocomplete="off"
+                    >
+                    <a class="btn btn-close"
+                        data-action="closesearch"
+                        data-toggle="collapse"
+                        href="#searchform-navbar"
+                        role="button"
+                    >
+                        <i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Cerrar</span>
+                    </a>
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-submit" data-action="submit">
+                        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                        <span class="sr-only">Course search</span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <a
+        class="btn btn-open rounded-0 nav-link"
+        data-toggle="collapse"
+        data-action="opensearch"
+        href="#searchform-navbar"
+        role="button"
+        aria-expanded="false"
+        aria-controls="searchform-navbar"
+        title="Selector de búsqueda de entrada"
+    >
+        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+        <span class="sr-only">Selector de búsqueda de entrada</span>
+    </a>
+</div>
+</div>
+            </div>
+
+        </div>
+    </div>
+
+        <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
+            <div id="nav-drawer-inner">
+                <nav class="list-group">
+                    <ul class="list-unstyled components">
+                        <li class="m-l-0"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/?redirect=0" data-key="" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer"><div class="m-l-0"><i class="fa fa-home fa-lg"></i>Inicio</div></a></li><li class="m-l-0"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/my/index.php" data-key="" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer"><div class="m-l-0"><i class="fa fa-dashboard fa-lg"></i>Área personal</div></a></li><li class="m-l-0"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/calendar/view.php" data-key="" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer"><div class="m-l-0"><i class="fa fa-calendar fa-lg"></i>Eventos</div></a></li><li class="m-l-0"><a href="#main-navigation-drawer1" class="list-group-item dropdown-toggle" aria-haspopup="true" data-target="#" data-toggle="collapse" title="Mis Cursos"><i class="fa fa-briefcase fa-lg"></i>Mis Cursos</a><ul class="collapse" id="main-navigation-drawer1"><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=229" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer1"><div class="m-l-1"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Mantenimiento E Instalacion...</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer1"><div class="m-l-1"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Procesamiento Digital De Se...</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=161" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer1"><div class="m-l-1"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Electrónica II - M.Bolagay ...</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=412" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer1"><div class="m-l-1"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Laboratorio de Electrónica ...</div></a></li></ul></li><li class="m-l-0"><a href="#main-navigation-drawer2" class="list-group-item dropdown-toggle" aria-haspopup="true" data-target="#" data-toggle="collapse" title="Este curso"><i class="fa fa-sitemap fa-lg"></i><span class="menutitle">Este curso</span></a><ul class="collapse" id="main-navigation-drawer2"><li class="m-l-0"><a href="#main-navigation-drawer23" class="list-group-item dropdown-toggle" aria-haspopup="true" data-target="#" data-toggle="collapse" title="Secciones"><i class="icon sections-menu fa fa-list-ol fa-lg"></i>Secciones</a><ul class="collapse" id="main-navigation-drawer23"><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268#section-0" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Inicio</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=1" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Bloque PACIE - UISRAEL</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=2" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 1</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=3" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 2</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=4" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 3</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=5" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 4 (RA + EP)</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=6" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 5</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=7" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 6</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=8" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 7</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=9" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer23"><div class="m-l-1">Semana 8 (RA + EF)</div></a></li></ul></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/user/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><i class="icon fa fa-users fa-lg"></i>Gente</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/grade/report/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><i class="icon fa fa-table fa-fw " aria-hidden="true"  ></i>Calificaciones</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/chat/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/chat/1679436805/monologo" />Chats</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/hvp/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/hvp/1679436805/monologo" />Contenido interactivo</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/quiz/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/quiz/1679436805/monologo" />Cuestionarios</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/forum/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/forum/1679436805/monologo" />Foros</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/glossary/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/glossary/1679436805/monologo" />Glosarios</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/course/resources.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/mod_page/1679436805/monologo" />Recursos</div></a></li><li class="m-l-1"><a class="list-group-item list-group-item-action" href="https://uvirtual.uisrael.edu.ec/mod/assign/index.php?id=268" data-key="" data-isexpandable="0" data-indent="1" data-showdivider="0" data-type="1" data-nodetype="1"data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" data-parent-key="main-navigation-drawer3"><div class="m-l-1"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/assign/1679436805/monologo" />Tareas</div></a></li></ul></li>
+                        <li>
+                            
+                        </li>
+                    </ul>
+                </nav>
+        
+                <nav class="list-group m-t-1">
+                    
+                </nav>
+            </div>
+        </div>
+        
+        <div id="main-navbar" class="d-none d-lg-block">
+            <div class="container">
+                <div class="navbar navbar-expand btco-hover-menu">
+                    <nav aria-label="Enlaces del sitio">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a title="Inicio" class="nav-link" href="https://uvirtual.uisrael.edu.ec/?redirect=0"><i class="fa fa-home fa-lg"></i>Inicio</a></li><li class="nav-item"><a title="Área personal" class="nav-link" href="https://uvirtual.uisrael.edu.ec/my/index.php"><i class="fa fa-dashboard fa-lg"></i>Área personal</a></li><li class="nav-item"><a title="Eventos" class="nav-link" href="https://uvirtual.uisrael.edu.ec/calendar/view.php"><i class="fa fa-calendar fa-lg"></i>Eventos</a></li><li class="nav-item dropdown my-auto"><a href="#" class="nav-link dropdown-toggle my-auto" role="button" id="main-navigation0" aria-haspopup="true" aria-expanded="false" aria-controls="dropdownmain-navigation0" data-target="#" data-toggle="dropdown" title="Mis Cursos"><i class="fa fa-briefcase fa-lg"></i>Mis Cursos</a><ul role="menu" class="dropdown-menu" id="dropdownmain-navigation0" aria-labelledby="main-navigation0"><li><a title="Mantenimiento E Instalaciones Industriales - E.Vivanco - M1 - 2023-2023" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=229"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Mantenimiento E Instalacion...</a></li><li><a title="Procesamiento Digital De Señales - R.Cortijo - M1 - 2023-2023" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Procesamiento Digital De Se...</a></li><li><a title="Electrónica II - M.Bolagay - M1 - 2023-2023 " class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=161"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Electrónica II - M.Bolagay ...</a></li><li><a title="Laboratorio de Electrónica II - S - Telec M. Cardoso 2022-2023" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=412"><i aria-hidden="true" class="fa fa-graduation-cap"></i>Laboratorio de Electrónica ...</a></li></ul></li><li class="nav-item dropdown my-auto"><a href="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004" class="nav-link dropdown-toggle my-auto" role="button" id="main-navigation0" aria-haspopup="true" aria-expanded="false" aria-controls="dropdownmain-navigation0" data-target="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004" data-toggle="dropdown" title="Este curso"><i class="fa fa-sitemap fa-lg"></i><span class="menutitle">Este curso</span></a><ul role="menu" class="dropdown-menu" id="dropdownmain-navigation0" aria-labelledby="main-navigation0"><li class="nav-item dropdown my-auto"><a href="#" class="nav-link dropdown-toggle my-auto" role="button" id="main-navigation00" aria-haspopup="true" aria-expanded="false" aria-controls="dropdownmain-navigation00" data-target="#" data-toggle="dropdown" title="Secciones"><i class="icon sections-menu fa fa-list-ol fa-lg"></i>Secciones</a><ul role="menu" class="dropdown-menu" id="dropdownmain-navigation00" aria-labelledby="main-navigation00"><li><a title="Inicio" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268#section-0">Inicio</a></li><li><a title="Bloque PACIE - UISRAEL" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=1">Bloque PACIE - UISRAEL</a></li><li><a title="Semana 1" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=2">Semana 1</a></li><li><a title="Semana 2" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=3">Semana 2</a></li><li><a title="Semana 3" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=4">Semana 3</a></li><li><a title="Semana 4 (RA + EP)" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=5">Semana 4 (RA + EP)</a></li><li><a title="Semana 5" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=6">Semana 5</a></li><li><a title="Semana 6" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=7">Semana 6</a></li><li><a title="Semana 7" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=8">Semana 7</a></li><li><a title="Semana 8 (RA + EF)" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=9">Semana 8 (RA + EF)</a></li></ul></li><li><a title="Gente" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/user/index.php?id=268"><i class="icon fa fa-users fa-lg"></i>Gente</a></li><li><a title="Calificaciones" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/grade/report/index.php?id=268"><i class="icon fa fa-table fa-fw " aria-hidden="true"  ></i>Calificaciones</a></li><li><a title="Chats" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/chat/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/chat/1679436805/monologo" />Chats</a></li><li><a title="Contenido interactivo" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/hvp/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/hvp/1679436805/monologo" />Contenido interactivo</a></li><li><a title="Cuestionarios" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/quiz/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/quiz/1679436805/monologo" />Cuestionarios</a></li><li><a title="Foros" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/forum/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/forum/1679436805/monologo" />Foros</a></li><li><a title="Glosarios" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/glossary/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/glossary/1679436805/monologo" />Glosarios</a></li><li><a title="Recursos" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/course/resources.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/mod_page/1679436805/monologo" />Recursos</a></li><li><a title="Tareas" class="dropdown-item" href="https://uvirtual.uisrael.edu.ec/mod/assign/index.php?id=268"><img class="icon " alt="" aria-hidden="true" src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/assign/1679436805/monologo" />Tareas</a></li></ul></li>
+                                
+                        </ul>
+                    </nav>
+        
+                    <ul class="navbar-nav ml-auto d-flex flex-wrap">
+        
+        
+        
+                        <li class="nav-item mr-1">
+                            <div id="zoominicon" class="right nav-link" title="Hide blocks" data-hidetitle="Hide blocks" data-showtitle="Show blocks">
+                                <i class="fa fa-lg fa-indent" aria-hidden="true"></i>
+                                <span class="showhideblocksdesc">Hide blocks</span>
+                            </div>
+                        </li>
+        
+                        <li class="nav-item mx-0 hbll">
+                            <a class="nav-link moodlewidth" href="javascript:void(0);" title="Pantalla completa">
+                                <i class="fa fa-expand fa-lg" aria-hidden="true"></i>
+                                <span class="zoomdesc">Pantalla completa</span>
+                            </a>
+                        </li>
+                        <li class="nav-item mx-0 sbll">
+                            <a class="nav-link moodlewidth" href="javascript:void(0);" title="Vista estándar">
+                                <i class="fa fa-compress fa-lg" aria-hidden="true"></i>
+                                <span class="zoomdesc">Vista estándar</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+</header>
+<div class="container outercont">
+    <div class="row"><div id="page-second-header" class="col-12 pt-3 pb-3 d-none d-md-flex">
+    <div class="d-flex flex-fill flex-wrap align-items-center">
+        <div id="page-navbar" class="mr-auto">
+            <nav role="navigation" aria-label="Ruta de navegación">
+            <ol  class="breadcrumb d-none d-md-flex"><i title="Inicio" class="fa fa-folder-open fa-lg"></i><span class="separator"><i class="fa-angle-right fa"></i></span><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://uvirtual.uisrael.edu.ec/my/courses.php"><span itemprop="title">Mis cursos</span></a></span></li><span class="separator"><i class="fa-angle-right fa"></i></span><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" title="Procesamiento Digital De Señales - R.Cortijo - M1 - 2023-2023" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268"><span itemprop="title">Procesamiento Digital De Señales - R.Cortijo - M1 - 2023-2023</span></a></span></li><span class="separator"><i class="fa-angle-right fa"></i></span><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://uvirtual.uisrael.edu.ec/course/view.php?id=268&amp;section=3"><span itemprop="title">Semana 2</span></a></span></li><span class="separator"><i class="fa-angle-right fa"></i></span><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" title="Cuestionario" aria-current="page" href="https://uvirtual.uisrael.edu.ec/mod/quiz/view.php?id=30004"><span itemprop="title">Cuestionario corto: transformación de la variable independiente</span></a></span></li></ol>
+        </nav>
+        </div>
+    </div>
+</div></div>    <div id="page-content" class="row flex-row">
+        <div id="region-main-box" class="col-9">
+            <section id="region-main">
+                <span class="notifications" id="user-notifications"></span><span id="maincontent"></span>
+<div class="activity-header" data-for="page-activity-header"></div><div role="main"><div class="container-fluid tertiary-navigation"><div class="row"><div class="navitem"><a class="btn btn-secondary" href="https://uvirtual.uisrael.edu.ec/mod/quiz/view.php?id=30004">Atrás</a></div></div></div><div id="quiz-timer-wrapper" class="mb-2">
+    <div id="quiz-timer" class="quiz-timer-inner py-1 px-2 ml-auto" role="timer" aria-atomic="true" aria-relevant="text">
+        Tiempo restante
+        <span id="quiz-time-left"></span>
+    </div>
+</div><form action="https://uvirtual.uisrael.edu.ec/mod/quiz/processattempt.php?cmid=30004" method="post" enctype="multipart/form-data" accept-charset="utf-8" id="responseform"><div><div id="question-15781-1" class="que multichoice deferredfeedback notyetanswered"><div class="info"><h3 class="no">Pregunta <span class="qno">1</span></h3><div class="state">Sin responder aún</div><div class="grade">Puntúa como 1,00</div><div class="questionflag editable"><input type="hidden" name="q15781:1_:flagged" value="0" /><input type="hidden" value="qaid=85164&amp;qubaid=15781&amp;qid=34506&amp;slot=1&amp;checksum=63c0c9cf2c41c1b5876df99a82fc86b6&amp;sesskey=ZOe9ztegXK&amp;newstate=" class="questionflagpostdata" /><input type="checkbox" id="q15781:1_:flaggedcheckbox" name="q15781:1_:flagged" value="1" /><label id="q15781:1_:flaggedlabel" for="q15781:1_:flaggedcheckbox"><img src="https://uvirtual.uisrael.edu.ec/theme/image.php/adaptable/core/1679436805/i/unflagged" alt="" class="questionflagimage" id="q15781:1_:flaggedimg" /><span>Marcar pregunta</span></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Enunciado de la pregunta</h4><input type="hidden" name="q15781:1_:sequencecheck" value="1" /><div class="qtext"><p>Indique cuál es la secuencia correcta de <a class="autolink" title="Pasos para realizar transformación de la variable independiente" href="https://uvirtual.uisrael.edu.ec/mod/chat/view.php?id=30007">pasos para realizar transformación de la variable independiente</a></p></div><div class="ablock no-overflow visual-scroll-x"><div class="prompt">Seleccione una:</div><div class="answer"><div class="r0"><input type="radio" name="q15781:1_answer" value="0" id="q15781:1_answer0" aria-labelledby="q15781:1_answer0_label" /><div class="d-flex w-auto" id="q15781:1_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1"><p>1 Reflexión, 2. Desplazamiento, 3. Cambio de escala</p></div></div> </div>
+<div class="r1"><input type="radio" name="q15781:1_answer" value="1" id="q15781:1_answer1" aria-labelledby="q15781:1_answer1_label" /><div class="d-flex w-auto" id="q15781:1_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1"><p>1, Cambio de escala, 2. Desplazamiento, 3. Reflexión</p></div></div> </div>
+<div class="r0"><input type="radio" name="q15781:1_answer" value="2" id="q15781:1_answer2" aria-labelledby="q15781:1_answer2_label" /><div class="d-flex w-auto" id="q15781:1_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1"><p>1. Desplazamiento, 2. Reflexión, 3. Cambio de escala</p></div></div> </div>
+<div class="r1"><input type="radio" name="q15781:1_answer" value="3" id="q15781:1_answer3" aria-labelledby="q15781:1_answer3_label" /><div class="d-flex w-auto" id="q15781:1_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1"><p>Cualquier orden</p></div></div> </div>
+</div><div id="q15781:1_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q15781:1_answer" id="q15781:1_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked" /><label for="q15781:1_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1" href="#">Quitar mi elección</a></label></div></div></div></div></div><div class="submitbtns"><input type="submit" name="next" value="Siguiente página" class="mod_quiz-next-nav btn btn-primary" id="mod_quiz-next-nav" /></div><input type="hidden" name="attempt" value="15469" /><input type="hidden" name="thispage" value="0" id="followingpage" /><input type="hidden" name="nextpage" value="1" /><input type="hidden" name="timeup" value="0" id="timeup" /><input type="hidden" name="sesskey" value="ZOe9ztegXK" /><input type="hidden" name="scrollpos" value="" id="scrollpos" /><input type="hidden" name="slots" value="1" /></div></form><div id="connection-error" style="display: none;" role="alert"><p>La conexión de red se ha perdido. (Ha fallado el guardado automático).</p>
+
+<p>Anote las respuestas introducidas en esta página en los últimos minutos, y trate de volver a conectarse.</p>
+
+<p>Una vez que la conexión se haya restablecido, sus respuestas deben ser guardados y este mensaje desaparecerá.</p>
+</div><div id="connection-ok" style="display: none;" role="alert"><p>La conexión de red se ha recuperado. Puede continuar de forma segura.</p>
+</div></div><nav class="activity_footer activity-navigation">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="float-left">
+                <a href="https://uvirtual.uisrael.edu.ec/mod/page/view.php?id=30001&forceview=1" id="prev-activity-link" class="previous_activity prevnext" ><span class="nav_icon"><i class="fa fa-angle-double-left"></i></span><span class="text"><span class="nav_guide">Actividad previa</span><br>Clase encuentro grabada 2. Transformación de la variable independiente</span></a>
+
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="float-right">
+                <a href="https://uvirtual.uisrael.edu.ec/mod/chat/view.php?id=30007&forceview=1" id="next-activity-link" class="next_activity prevnext" ><span class="text"><span class="nav_guide">Próxima actividad</span><br>Pasos para realizar transformación de la variable independiente</span><span class="nav_icon"><i class="fa fa-angle-double-right"></i></span></a>
+
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="jumpnav">
+    <div class="jumpmenu">
+    <form method="post" action="https://uvirtual.uisrael.edu.ec/course/jumpto.php" class="form-inline" id="url_select_f6445ee7d238909">
+        <input type="hidden" name="sesskey" value="ZOe9ztegXK">
+            <label for="jump-to-activity" class="sr-only">
+                Ir a...
+            </label>
+        <select  id="jump-to-activity" class="custom-select jumpmenu" name="jump"
+                 >
+                    <option value="" selected>Ir a...</option>
+                    <option value="/mod/resource/view.php?id=29961&amp;forceview=1" >Syllabus de PDS PAO 2023 A</option>
+                    <option value="/mod/resource/view.php?id=29962&amp;forceview=1" >INSTRUCTIVO DE ESTRUCTURA TECNO-PEDAGÓGICA DE AULA VIRTUAL EN EL ENTORNO VIRTUAL DE APRENDIZAJE “EVA” UISRAEL 2020</option>
+                    <option value="/mod/page/view.php?id=29963&amp;forceview=1" >Presentación del tutor</option>
+                    <option value="/mod/page/view.php?id=29964&amp;forceview=1" >Rúbrica de evaluación de la asignatura</option>
+                    <option value="/mod/page/view.php?id=29965&amp;forceview=1" >Guía para iniciar</option>
+                    <option value="/mod/url/view.php?id=29966&amp;forceview=1" >Textos básicos para PDS</option>
+                    <option value="/mod/page/view.php?id=29968&amp;forceview=1" >Cronograma de evaluaciones</option>
+                    <option value="/mod/page/view.php?id=29969&amp;forceview=1" >Cronograma de heteroevaluaciones</option>
+                    <option value="/mod/url/view.php?id=29971&amp;forceview=1" >Clases Encuentro + Taller de PDS 6to Telecomunicaciones  PA (EN LÍNEA)</option>
+                    <option value="/mod/url/view.php?id=47203&amp;forceview=1" >Clases Encuentro + Taller de PDS 7mo Automatización  PC (EN LÍNEA)</option>
+                    <option value="/mod/forum/view.php?id=29973&amp;forceview=1" >Novedades de PDS</option>
+                    <option value="/mod/forum/view.php?id=29974&amp;forceview=1" >Tacita de café / Tiempo fuera</option>
+                    <option value="/mod/glossary/view.php?id=29975&amp;forceview=1" >Glosario de Términos</option>
+                    <option value="/mod/page/view.php?id=29978&amp;forceview=1" >Principal: clase magistral 1 de PDS; señales y sistemas</option>
+                    <option value="/mod/url/view.php?id=29979&amp;forceview=1" >Principal: Señales y sistemas. Presentación Google/Slidegraphic. UISRAEL 2020-2021</option>
+                    <option value="/mod/resource/view.php?id=29980&amp;forceview=1" >Ejercicios de ejemplo de Análisis de Periodicidad</option>
+                    <option value="/mod/resource/view.php?id=29981&amp;forceview=1" >Materiales de estudio sobre señales y análisis de periodicidad</option>
+                    <option value="/mod/folder/view.php?id=49170&amp;forceview=1" >Documentos para PISIP 6to Telecomunicaciones 2023 A</option>
+                    <option value="/mod/page/view.php?id=29982&amp;forceview=1" >Clase encuentro grabada semana 1: señales y sistemas (3 - 8 /4/2023)</option>
+                    <option value="/mod/hvp/view.php?id=29985&amp;forceview=1" >Video Interactivo: DSP (Digital Signal Processing). Diagnóstico.</option>
+                    <option value="/mod/hvp/view.php?id=29986&amp;forceview=1" >Video interactivo: conceptos básicos de PDS</option>
+                    <option value="/mod/forum/view.php?id=29989&amp;forceview=1" >Señales discretas en el tiempo</option>
+                    <option value="/mod/assign/view.php?id=29992&amp;forceview=1" >Trabajo 1 de PDS Periodicidad en señales continuas y discretas</option>
+                    <option value="/mod/page/view.php?id=29996&amp;forceview=1" >Principal: Clase magistral 2 video. Transformación de la variable independiente</option>
+                    <option value="/mod/url/view.php?id=29997&amp;forceview=1" >Principal: transformación de la variable independiente. Presentación UISRAEL 2020-2021</option>
+                    <option value="/mod/resource/view.php?id=29998&amp;forceview=1" >Ejercicios de ejemplo de Transformación de la Variable Independiente y Simetría</option>
+                    <option value="/mod/folder/view.php?id=29999&amp;forceview=1" >Materiales de estudio individual</option>
+                    <option value="/mod/url/view.php?id=30000&amp;forceview=1" >video tutorial sobre transformación de la variable independiente</option>
+                    <option value="/mod/page/view.php?id=30001&amp;forceview=1" >Clase encuentro grabada 2. Transformación de la variable independiente</option>
+                    <option value="/mod/chat/view.php?id=30007&amp;forceview=1" >Pasos para realizar transformación de la variable independiente</option>
+                    <option value="/mod/assign/view.php?id=30010&amp;forceview=1" >Transformación de la variable independiente y simetría</option>
+                    <option value="/mod/page/view.php?id=30014&amp;forceview=1" >Principal: clase magistral 3 video. Análisis de SDT</option>
+                    <option value="/mod/url/view.php?id=30015&amp;forceview=1" >Principal: sistemas discretos en el tiempo. Presentación Google Slide/ Slide Graphic</option>
+                    <option value="/mod/resource/view.php?id=30016&amp;forceview=1" >Ejercicios resueltos de propiedades de los SDT</option>
+                    <option value="/mod/folder/view.php?id=30017&amp;forceview=1" >Presentaciones de apoyo: sistemas discretos, propiedades y convolución</option>
+                    <option value="/mod/url/view.php?id=30018&amp;forceview=1" >Video tutorial: sistemas discretos y continuos en el tiempo</option>
+                    <option value="/mod/page/view.php?id=30019&amp;forceview=1" >Clase encuentro grabada 3. Análisis de sistemas discretos en el tiempo ( 18-23/4/2022)</option>
+                    <option value="/mod/quiz/view.php?id=30022&amp;forceview=1" >Cuestionario corto: análisis de SDT</option>
+                    <option value="/mod/forum/view.php?id=30025&amp;forceview=1" >Sistemas Discretos en el Tiempo</option>
+                    <option value="/mod/assign/view.php?id=30028&amp;forceview=1" >Tarea de la semana 3. Diagramas de bloques, propiedades de los SDT y convolución.</option>
+                    <option value="/mod/folder/view.php?id=30032&amp;forceview=1" >Materiales de apoyo: ejercicios de ejemplo resueltos en PDF</option>
+                    <option value="/mod/resource/view.php?id=30033&amp;forceview=1" >Ejercicios de RA para evaluación EP semana 4 2023</option>
+                    <option value="/mod/folder/view.php?id=30034&amp;forceview=1" >Ejercicios en Excel de refuerzo académico</option>
+                    <option value="/mod/page/view.php?id=30035&amp;forceview=1" >Clase encuentro grabada 4: refuerzo académico grupal</option>
+                    <option value="/mod/quiz/view.php?id=30038&amp;forceview=1" >Cuestionario corto: temas de refuerzo académico</option>
+                    <option value="/mod/chat/view.php?id=30041&amp;forceview=1" >Aclaración de dudas para el examen EP</option>
+                    <option value="/mod/assign/view.php?id=30044&amp;forceview=1" >Actividades de Refuerzo Académico Grupal</option>
+        </select>
+            <noscript>
+                <input type="submit" class="btn btn-secondary ml-1" value="Ir">
+            </noscript>
+    </form>
+</div>
+
+</div>            </section>
+        </div>
+
+        <aside id="block-region-side-post" class="col-3 d-print-none  block-region" data-blockregion="side-post" data-droptarget="1"><a class="skip skip-block" id="fsb-1" href="#sb-1">Salta Navegación por el cuestionario</a><section class="block block_fake mb-3" id="mod_quiz_navblock" role="navigation" data-block="_fake"><div class="header"><div class="title"><div class="block_action"></div><h2 class="d-inline">Navegación por el cuestionario</h2><div class="block-controls float-right"></div></div></div><div class="content"><div id="quiznojswarning">Advertencia: estos vínculos no guardarán sus respuestas. Utilice el botón siguiente en la zona inferior de la página.</div><div class="qn_buttons clearfix multipages"><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton1" title="Sin responder aún" data-quiz-page="0" href="#question-15781-1"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pregunta </span>1<span class="accesshide"> Esta página <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn" id="quiznavbutton2" title="Sin responder aún" data-quiz-page="1" href="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004&amp;page=1#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pregunta </span>2<span class="accesshide"> <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn" id="quiznavbutton3" title="Sin responder aún" data-quiz-page="2" href="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004&amp;page=2#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pregunta </span>3<span class="accesshide"> <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn" id="quiznavbutton4" title="Sin responder aún" data-quiz-page="3" href="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004&amp;page=3#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pregunta </span>4<span class="accesshide"> <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn" id="quiznavbutton5" title="Sin responder aún" data-quiz-page="4" href="https://uvirtual.uisrael.edu.ec/mod/quiz/attempt.php?attempt=15469&amp;cmid=30004&amp;page=4#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pregunta </span>5<span class="accesshide"> <span class="flagstate"></span></span></a></div><div class="othernav"><a class="endtestlink aalink" href="https://uvirtual.uisrael.edu.ec/mod/quiz/summary.php?attempt=15469&amp;cmid=30004">Terminar intento...</a></div></div></section><span class="skip-block-to" id="sb-1"></span></aside><div id="showsidebaricon" title="Mostrar/ocultar la barra lateral"><i class="fa fa-3x fa-angle-left" aria-hidden="true"></i></div>    </div>
+</div>
+
+<div
+    id="drawer-6445ee7d39ee66445ee7d2389010"
+    class=" drawer bg-white hidden"
+    aria-expanded="false"
+    aria-hidden="true"
+    data-region="right-hand-drawer"
+    role="region"
+    tabindex="0"
+>
+            <div class="drawer-top p-2 border-bottom bg-messageheader">
+            Mensajes
+            <a id="message-drawer-close-6445ee7d39ee66445ee7d2389010" class="pull-right" href="#" role="button">
+                <i class="icon fa fa-window-close fa-fw "  title="Mostrar/ocultar cajón de mensajería" role="img" aria-label="Mostrar/ocultar cajón de mensajería"></i>
+            </a>
+        </div>
+        <div id="message-drawer-6445ee7d39ee66445ee7d2389010" class="message-app" data-region="message-drawer" role="region">
+            <div class="header-container position-relative" data-region="header-container">
+                <div class="hidden border-bottom p-1 px-sm-2" aria-hidden="true" data-region="view-contacts">
+                    <div class="d-flex align-items-center">
+                        <div class="align-self-stretch">
+                            <a class="h-100 d-flex align-items-center mr-2" href="#" data-route-back role="button">
+                                <div class="icon-back-in-drawer">
+                                    <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"  ></i></span>
+                                    <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"  ></i></span>
+                                </div>
+                                <div class="icon-back-in-app">
+                                    <span class="dir-rtl-hide"><i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i></span>
+                                </div>                            </a>
+                        </div>
+                        <div>
+                            Contactos
+                        </div>
+                        <div class="ml-auto">
+                            <a href="#" data-route="view-search" role="button" aria-label="Búsqueda">
+                                <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>                
+                <div
+                    class="hidden bg-white position-relative border-bottom p-1 px-sm-2"
+                    aria-hidden="true"
+                    data-region="view-conversation"
+                >
+                    <div class="hidden" data-region="header-content"></div>
+                    <div class="hidden" data-region="header-edit-mode">
+                        
+                        <div class="d-flex p-2 align-items-center">
+                            Mensajes seleccionados:
+                            <span class="ml-1" data-region="message-selected-court">1</span>
+                            <button type="button" class="ml-auto close" aria-label="Cancelar selección de mensaje"
+                                data-action="cancel-edit-mode">
+                                    <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div data-region="header-placeholder">
+                        <div class="d-flex">
+                            <div
+                                class="ml-2 rounded-circle bg-pulse-grey align-self-center"
+                                style="height: 38px; width: 38px"
+                            >
+                            </div>
+                            <div class="ml-2 " style="flex: 1">
+                                <div
+                                    class="mt-1 bg-pulse-grey w-75"
+                                    style="height: 16px;"
+                                >
+                                </div>
+                            </div>
+                            <div
+                                class="ml-2 bg-pulse-grey align-self-center"
+                                style="height: 16px; width: 20px"
+                            >
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="hidden position-absolute z-index-1"
+                        data-region="confirm-dialogue-container"
+                        style="top: 0; bottom: -1px; right: 0; left: 0; background: rgba(0,0,0,0.3);"
+                    ></div>
+                </div>                <div class="border-bottom p-1 px-sm-2" aria-hidden="false"  data-region="view-overview">
+                    <div class="d-flex align-items-center">
+                        <div class="input-group simplesearchform">
+                            <input
+                                type="text"
+                                class="form-control"
+                                placeholder="Búsqueda"
+                                aria-label="Búsqueda"
+                                data-region="view-overview-search-input"
+                            >
+                            <div class="input-group-append">
+                                <span class="icon-no-margin btn btn-submit">
+                                    <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="ml-2">
+                            <a
+                                href="#"
+                                data-route="view-settings"
+                                data-route-param="4127"
+                                aria-label="Ajustes"
+                                role="button"
+                            >
+                                <i class="icon fa fa-cog fa-fw " aria-hidden="true"  ></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="text-right mt-sm-3">
+                        <a href="#" data-route="view-contacts" role="button">
+                            <i class="icon fa fa-user fa-fw " aria-hidden="true"  ></i>
+                            Contactos
+                            <span
+                                class="badge badge-primary bg-primary ml-2 hidden"
+                                data-region="contact-request-count"
+                            >
+                                <span aria-hidden="true">0</span>
+                                <span class="sr-only">Hay 0 solicitudes de contacto pendientes</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="hidden border-bottom p-1 px-sm-2 view-search"  aria-hidden="true" data-region="view-search">
+                    <div class="d-flex align-items-center">
+                        <a
+                            class="mr-2 align-self-stretch d-flex align-items-center"
+                            href="#"
+                            data-route-back
+                            data-action="cancel-search"
+                            role="button"
+                        >
+                            <div class="icon-back-in-drawer">
+                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"  ></i></span>
+                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"  ></i></span>
+                            </div>
+                            <div class="icon-back-in-app">
+                                <span class="dir-rtl-hide"><i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i></span>
+                            </div>                        </a>
+                        <div class="input-group simplesearchform">
+                            <input
+                                type="text"
+                                class="form-control"
+                                placeholder="Búsqueda"
+                                aria-label="Búsqueda"
+                                data-region="search-input"
+                            >
+                            <div class="input-group-append">
+                                <button
+                                    class="btn btn-submit icon-no-margin"
+                                    type="button"
+                                    data-action="search"
+                                    aria-label="Búsqueda"
+                                >
+                                    <span data-region="search-icon-container">
+                                        <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                                    </span>
+                                    <span class="hidden" data-region="loading-icon-container">
+                                        <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <div class="hidden border-bottom p-1 px-sm-2 pb-sm-3" aria-hidden="true" data-region="view-settings">
+                    <div class="d-flex align-items-center">
+                        <div class="align-self-stretch" >
+                            <a class="h-100 d-flex mr-2 align-items-center" href="#" data-route-back role="button">
+                                <div class="icon-back-in-drawer">
+                                    <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"  ></i></span>
+                                    <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"  ></i></span>
+                                </div>
+                                <div class="icon-back-in-app">
+                                    <span class="dir-rtl-hide"><i class="icon fa fa-times fa-fw " aria-hidden="true"  ></i></span>
+                                </div>                            </a>
+                        </div>
+                        <div>
+                            Configuración
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="body-container position-relative" data-region="body-container">
+                
+                <div
+                    class="hidden"
+                    data-region="view-contact"
+                    aria-hidden="true"
+                >
+                    <div class="p-2 pt-3" data-region="content-container"></div>
+                </div>                <div class="hidden h-100" data-region="view-contacts" aria-hidden="true" data-user-id="4127">
+                    <div class="d-flex flex-column h-100">
+                        <div class="p-3 border-bottom">
+                            <ul class="nav nav-pills nav-fill" role="tablist">
+                                <li class="nav-item">
+                                    <a
+                                        id="contacts-tab-6445ee7d39ee66445ee7d2389010"
+                                        class="nav-link active"
+                                        href="#contacts-tab-panel-6445ee7d39ee66445ee7d2389010"
+                                        data-toggle="tab"
+                                        data-action="show-contacts-section"
+                                        role="tab"
+                                        aria-controls="contacts-tab-panel-6445ee7d39ee66445ee7d2389010"
+                                        aria-selected="true"
+                                    >
+                                        Contactos
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a
+                                        id="requests-tab-6445ee7d39ee66445ee7d2389010"
+                                        class="nav-link"
+                                        href="#requests-tab-panel-6445ee7d39ee66445ee7d2389010"
+                                        data-toggle="tab"
+                                        data-action="show-requests-section"
+                                        role="tab"
+                                        aria-controls="requests-tab-panel-6445ee7d39ee66445ee7d2389010"
+                                        aria-selected="false"
+                                    >
+                                        Peticiones
+                                        <span class="badge badge-primary bg-primary ml-2 hidden"
+                                            data-region="contact-request-count"
+                                        >
+                                            <span aria-hidden="true">0</span>
+                                            <span class="sr-only">Hay 0 solicitudes de contacto pendientes</span>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tab-content d-flex flex-column h-100">
+                                            <div
+                    class="tab-pane fade show active h-100 lazy-load-list"
+                    aria-live="polite"
+                    data-region="lazy-load-list"
+                    data-user-id="4127"
+                                        id="contacts-tab-panel-6445ee7d39ee66445ee7d2389010"
+                    data-section="contacts"
+                    role="tabpanel"
+                    aria-labelledby="contacts-tab-6445ee7d39ee66445ee7d2389010"
+
+                >
+                    
+                    <div class="hidden text-center p-2" data-region="empty-message-container">
+                        No hay contactos
+                    </div>
+                    <div class="hidden list-group" data-region="content-container">
+                        
+                    </div>
+                    <div class="list-group" data-region="placeholder-container">
+                        
+                    </div>
+                    <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container" >
+                        <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                    </div>
+                </div>
+                
+                                            <div
+                    class="tab-pane fade h-100 lazy-load-list"
+                    aria-live="polite"
+                    data-region="lazy-load-list"
+                    data-user-id="4127"
+                                        id="requests-tab-panel-6445ee7d39ee66445ee7d2389010"
+                    data-section="requests"
+                    role="tabpanel"
+                    aria-labelledby="requests-tab-6445ee7d39ee66445ee7d2389010"
+
+                >
+                    
+                    <div class="hidden text-center p-2" data-region="empty-message-container">
+                        No hay solicitudes de contacto
+                    </div>
+                    <div class="hidden list-group" data-region="content-container">
+                        
+                    </div>
+                    <div class="list-group" data-region="placeholder-container">
+                        
+                    </div>
+                    <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container" >
+                        <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div
+                    class="view-conversation hidden h-100"
+                    aria-hidden="true"
+                    data-region="view-conversation"
+                    data-user-id="4127"
+                    data-midnight="1682226000"
+                    data-message-poll-min="10"
+                    data-message-poll-max="120"
+                    data-message-poll-after-max="300"
+                    style="overflow-y: auto; overflow-x: hidden"
+                >
+                    <div class="position-relative h-100" data-region="content-container" style="overflow-y: auto; overflow-x: hidden">
+                        <div class="content-message-container hidden h-100 px-2 pt-0" data-region="content-message-container" role="log" style="overflow-y: auto; overflow-x: hidden">
+                            <div class="py-3 sticky-top z-index-1 border-bottom text-center hidden" data-region="contact-request-sent-message-container">
+                                <p class="m-0">Solicitud de contacto enviada</p>
+                                <p class="font-italic font-weight-light" data-region="text"></p>
+                            </div>
+                            <div class="p-3 text-center hidden" data-region="self-conversation-message-container">
+                                <p class="m-0">Espacio personal</p>
+                                <p class="font-italic font-weight-light" data-region="text">Guardar borradores de mensajes, notas, etc, para acceder a ellos más tarde.</p>
+                           </div>
+                            <div class="hidden text-center p-3" data-region="more-messages-loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</div>
+                        </div>
+                        <div class="p-4 w-100 h-100 hidden position-absolute z-index-1" data-region="confirm-dialogue-container" style="top: 0; background: rgba(0,0,0,0.3);">
+                            
+                            <div class="p-3 bg-white" data-region="confirm-dialogue" role="alert">
+                                <p class="text-muted" data-region="dialogue-text"></p>
+                                <div class="mb-2 custom-control custom-checkbox hidden" data-region="delete-messages-for-all-users-toggle-container">
+                                    <input type="checkbox" class="custom-control-input" id="delete-messages-for-all-users" data-region="delete-messages-for-all-users-toggle">
+                                    <label class="custom-control-label text-muted" for="delete-messages-for-all-users">
+                                        Borrar para mí y para todos los demás
+                                    </label>
+                                </div>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-block">
+                                    <span data-region="dialogue-button-text">Bloque</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-unblock">
+                                    <span data-region="dialogue-button-text">Desbloquear</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-remove-contact">
+                                    <span data-region="dialogue-button-text">Quitar</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-add-contact">
+                                    <span data-region="dialogue-button-text">Añadir</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-delete-selected-messages">
+                                    <span data-region="dialogue-button-text">Borrar</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-delete-conversation">
+                                    <span data-region="dialogue-button-text">Borrar</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="request-add-contact">
+                                    <span data-region="dialogue-button-text">Enviar solicitud de contacto</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block hidden" data-action="accept-contact-request">
+                                    <span data-region="dialogue-button-text">Aceptar y añadir a los contactos</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-secondary btn-block hidden" data-action="decline-contact-request">
+                                    <span data-region="dialogue-button-text">Rechazar</span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                                <button type="button" class="btn btn-primary btn-block" data-action="okay-confirm">OK</button>
+                                <button type="button" class="btn btn-secondary btn-block" data-action="cancel-confirm">Cancelar</button>
+                            </div>
+                        </div>
+                        <div class="px-2 pb-2 pt-0" data-region="content-placeholder">
+                            <div class="h-100 d-flex flex-column">
+                                <div
+                                    class="px-2 pb-2 pt-0 bg-light h-100"
+                                    style="overflow-y: auto"
+                                >
+                                    <div class="mt-4">
+                                        <div class="mb-4">
+                                            <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                    </div>                                    <div class="mt-4">
+                                        <div class="mb-4">
+                                            <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                    </div>                                    <div class="mt-4">
+                                        <div class="mb-4">
+                                            <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                    </div>                                    <div class="mt-4">
+                                        <div class="mb-4">
+                                            <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                    </div>                                    <div class="mt-4">
+                                        <div class="mb-4">
+                                            <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                        <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                            <div class="d-flex align-items-center mb-2">
+                                                <div class="mr-2">
+                                                    <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                                </div>
+                                                <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                                <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                            </div>
+                                            <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                            <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                        </div>
+                                    </div>                                </div>
+                            </div>                        </div>
+                    </div>
+                </div>
+                
+                <div
+                    class="hidden"
+                    aria-hidden="true"
+                    data-region="view-group-info"
+                >
+                    <div
+                        class="pt-3 h-100 d-flex flex-column"
+                        data-region="group-info-content-container"
+                        style="overflow-y: auto"
+                    ></div>
+                </div>                <div class="h-100 view-overview-body" aria-hidden="false" data-region="view-overview"  data-user-id="4127">
+                    <div id="message-drawer-view-overview-container-6445ee7d39ee66445ee7d2389010" class="d-flex flex-column h-100" style="overflow-y: auto">
+                            
+                            
+                            <div
+                                class="section border-0 card rounded-0"
+                                data-region="view-overview-favourites"
+                            >
+                                <div id="view-overview-favourites-toggle" class="card-header rounded-0" data-region="toggle">
+                                    <button
+                                        class="btn btn-link w-100 text-left p-1 p-sm-2 d-flex rounded-0 align-items-center overview-section-toggle collapsed"
+                                        data-toggle="collapse"
+                                        data-target="#view-overview-favourites-target-6445ee7d39ee66445ee7d2389010"
+                                        aria-expanded="false"
+                                        aria-controls="view-overview-favourites-target-6445ee7d39ee66445ee7d2389010"
+                                    >
+                                        <span class="collapsed-icon-container">
+                                            <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="expanded-icon-container">
+                                            <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="font-weight-bold">Destacados</span>
+                                        <small class="hidden ml-1" data-region="section-total-count-container">
+                                            (<span aria-hidden="true" data-region="section-total-count"></span><span class="sr-only"> conversaciones en total</span>)
+                                        </small>
+                                        <span class="hidden ml-2" data-region="loading-icon-container">
+                                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                        </span>
+                                        <span
+                                            class="hidden badge badge-pill badge-primary ml-auto bg-primary"
+                                            data-region="section-unread-count"
+                                        >
+                                            <span aria-hidden="true"></span>
+                                            <span class="sr-only">Hay  conversaciones sin leer</span>
+                                        </span>
+                                    </button>
+                                </div>
+                                                            <div
+                                class="collapse border-bottom  lazy-load-list"
+                                aria-live="polite"
+                                data-region="lazy-load-list"
+                                data-user-id="4127"
+                                            id="view-overview-favourites-target-6445ee7d39ee66445ee7d2389010"
+            aria-labelledby="view-overview-favourites-toggle"
+            data-parent="#message-drawer-view-overview-container-6445ee7d39ee66445ee7d2389010"
+
+                            >
+                                
+                                <div class="hidden text-center p-2" data-region="empty-message-container">
+                                            <p class="text-muted mt-2">Sin conversaciones destacadas</p>
+
+                                </div>
+                                <div class="hidden list-group" data-region="content-container">
+                                    
+                                </div>
+                                <div class="list-group" data-region="placeholder-container">
+                                            <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</div>
+
+                                </div>
+                                <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container" >
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                </div>
+                            </div>
+                            </div>
+                            
+                            
+                            <div
+                                class="section border-0 card rounded-0"
+                                data-region="view-overview-group-messages"
+                            >
+                                <div id="view-overview-group-messages-toggle" class="card-header rounded-0" data-region="toggle">
+                                    <button
+                                        class="btn btn-link w-100 text-left p-1 p-sm-2 d-flex rounded-0 align-items-center overview-section-toggle collapsed"
+                                        data-toggle="collapse"
+                                        data-target="#view-overview-group-messages-target-6445ee7d39ee66445ee7d2389010"
+                                        aria-expanded="false"
+                                        aria-controls="view-overview-group-messages-target-6445ee7d39ee66445ee7d2389010"
+                                    >
+                                        <span class="collapsed-icon-container">
+                                            <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="expanded-icon-container">
+                                            <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="font-weight-bold">Grupo</span>
+                                        <small class="hidden ml-1" data-region="section-total-count-container">
+                                            (<span aria-hidden="true" data-region="section-total-count"></span><span class="sr-only"> conversaciones en total</span>)
+                                        </small>
+                                        <span class="hidden ml-2" data-region="loading-icon-container">
+                                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                        </span>
+                                        <span
+                                            class="hidden badge badge-pill badge-primary ml-auto bg-primary"
+                                            data-region="section-unread-count"
+                                        >
+                                            <span aria-hidden="true"></span>
+                                            <span class="sr-only">Hay  conversaciones sin leer</span>
+                                        </span>
+                                    </button>
+                                </div>
+                                                            <div
+                                class="collapse border-bottom  lazy-load-list"
+                                aria-live="polite"
+                                data-region="lazy-load-list"
+                                data-user-id="4127"
+                                            id="view-overview-group-messages-target-6445ee7d39ee66445ee7d2389010"
+            aria-labelledby="view-overview-group-messages-toggle"
+            data-parent="#message-drawer-view-overview-container-6445ee7d39ee66445ee7d2389010"
+
+                            >
+                                
+                                <div class="hidden text-center p-2" data-region="empty-message-container">
+                                            <p class="text-muted mt-2">No hay conversaciónes de grupo</p>
+
+                                </div>
+                                <div class="hidden list-group" data-region="content-container">
+                                    
+                                </div>
+                                <div class="list-group" data-region="placeholder-container">
+                                            <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</div>
+
+                                </div>
+                                <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container" >
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                </div>
+                            </div>
+                            </div>
+                            
+                            
+                            <div
+                                class="section border-0 card rounded-0"
+                                data-region="view-overview-messages"
+                            >
+                                <div id="view-overview-messages-toggle" class="card-header rounded-0" data-region="toggle">
+                                    <button
+                                        class="btn btn-link w-100 text-left p-1 p-sm-2 d-flex rounded-0 align-items-center overview-section-toggle collapsed"
+                                        data-toggle="collapse"
+                                        data-target="#view-overview-messages-target-6445ee7d39ee66445ee7d2389010"
+                                        aria-expanded="false"
+                                        aria-controls="view-overview-messages-target-6445ee7d39ee66445ee7d2389010"
+                                    >
+                                        <span class="collapsed-icon-container">
+                                            <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="expanded-icon-container">
+                                            <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"  ></i>
+                                        </span>
+                                        <span class="font-weight-bold">Privado</span>
+                                        <small class="hidden ml-1" data-region="section-total-count-container">
+                                            (<span aria-hidden="true" data-region="section-total-count"></span><span class="sr-only"> conversaciones en total</span>)
+                                        </small>
+                                        <span class="hidden ml-2" data-region="loading-icon-container">
+                                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                        </span>
+                                        <span
+                                            class="hidden badge badge-pill badge-primary ml-auto bg-primary"
+                                            data-region="section-unread-count"
+                                        >
+                                            <span aria-hidden="true"></span>
+                                            <span class="sr-only">Hay  conversaciones sin leer</span>
+                                        </span>
+                                    </button>
+                                </div>
+                                                            <div
+                                class="collapse border-bottom  lazy-load-list"
+                                aria-live="polite"
+                                data-region="lazy-load-list"
+                                data-user-id="4127"
+                                            id="view-overview-messages-target-6445ee7d39ee66445ee7d2389010"
+            aria-labelledby="view-overview-messages-toggle"
+            data-parent="#message-drawer-view-overview-container-6445ee7d39ee66445ee7d2389010"
+
+                            >
+                                
+                                <div class="hidden text-center p-2" data-region="empty-message-container">
+                                            <p class="text-muted mt-2">No hay conversaciones privadas</p>
+
+                                </div>
+                                <div class="hidden list-group" data-region="content-container">
+                                    
+                                </div>
+                                <div class="list-group" data-region="placeholder-container">
+                                            <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</div>
+
+                                </div>
+                                <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container" >
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+                                </div>
+                            </div>
+                            </div>
+                    </div>
+                </div>
+                
+                <div
+                    data-region="view-search"
+                    aria-hidden="true"
+                    class="h-100 hidden"
+                    data-user-id="4127"
+                    data-users-offset="0"
+                    data-messages-offset="0"
+                    style="overflow-y: auto"
+                    
+                >
+                    <div class="hidden" data-region="search-results-container" style="overflow-y: auto">
+                        
+                        <div class="d-flex flex-column">
+                            <div class="mb-3 bg-white" data-region="all-contacts-container">
+                                <div data-region="contacts-container"  class="pt-2">
+                                    <h4 class="h6 px-2">Contactos</h4>
+                                    <div class="list-group" data-region="list"></div>
+                                </div>
+                                <div data-region="non-contacts-container" class="pt-2 border-top">
+                                    <h4 class="h6 px-2">No contactos</h4>
+                                    <div class="list-group" data-region="list"></div>
+                                </div>
+                                <div class="text-right">
+                                    <button class="btn btn-link text-primary" data-action="load-more-users">
+                                        <span data-region="button-text">Cargar más</span>
+                                        <span data-region="loading-icon-container" class="hidden"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="bg-white" data-region="messages-container">
+                                <h4 class="h6 px-2 pt-2">Mensajes</h4>
+                                <div class="list-group" data-region="list"></div>
+                                <div class="text-right">
+                                    <button class="btn btn-link text-primary" data-action="load-more-messages">
+                                        <span data-region="button-text">Cargar más</span>
+                                        <span data-region="loading-icon-container" class="hidden"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                    </button>
+                                </div>
+                            </div>
+                            <p class="hidden p-3 text-center" data-region="no-results-container">No hay resultados</p>
+                        </div>                    </div>
+                    <div class="hidden" data-region="loading-placeholder">
+                        <div class="text-center pt-3 icon-size-4"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</div>
+                    </div>
+                    <div class="p-3 text-center" data-region="empty-message-container">
+                        <p>Buscar personas y mensajes</p>
+                    </div>
+                </div>                
+                <div class="h-100 hidden bg-white" aria-hidden="true" data-region="view-settings">
+                    <div class="hidden" data-region="content-container">
+                        
+                        <div data-region="settings" class="p-3">
+                            <h3 class="h6 font-weight-bold">Privacidad</h3>
+                            <p>Puedes restringir quién puede enviarte mensajes</p>
+                            <div data-preference="blocknoncontacts" class="mb-3">
+                                <fieldset>
+                                    <legend class="sr-only">Aceptar mensajes desde:</legend>
+                                        <div class="custom-control custom-radio mb-2">
+                                            <input
+                                                type="radio"
+                                                name="message_blocknoncontacts"
+                                                class="custom-control-input"
+                                                id="block-noncontacts-6445ee7d39ee66445ee7d2389010-1"
+                                                value="1"
+                                            >
+                                            <label class="custom-control-label ml-2" for="block-noncontacts-6445ee7d39ee66445ee7d2389010-1">
+                                                Únicamente mis contactos
+                                            </label>
+                                        </div>
+                                        <div class="custom-control custom-radio mb-2">
+                                            <input
+                                                type="radio"
+                                                name="message_blocknoncontacts"
+                                                class="custom-control-input"
+                                                id="block-noncontacts-6445ee7d39ee66445ee7d2389010-0"
+                                                value="0"
+                                            >
+                                            <label class="custom-control-label ml-2" for="block-noncontacts-6445ee7d39ee66445ee7d2389010-0">
+                                                Mis contactos y cualquier persona de mis cursos
+                                            </label>
+                                        </div>
+                                </fieldset>
+                            </div>
+                        
+                            <div class="hidden" data-region="notification-preference-container">
+                                <h3 class="mb-2 mt-4 h6 font-weight-bold">Preferencias de notificación</h3>
+                            </div>
+                        
+                            <h3 class="mb-2 mt-4 h6 font-weight-bold">General</h3>
+                            <div data-preference="entertosend">
+                                <div class="custom-control custom-switch">
+                                    <input type="checkbox" class="custom-control-input" id="enter-to-send-6445ee7d39ee66445ee7d2389010" checked>
+                                    <label class="custom-control-label" for="enter-to-send-6445ee7d39ee66445ee7d2389010">
+                                        Usar "intro" para enviar
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-region="placeholder-container">
+                        
+                        <div class="d-flex flex-column p-3">
+                            <div class="w-25 bg-pulse-grey h6" style="height: 18px"></div>
+                            <div class="w-75 bg-pulse-grey mb-4" style="height: 18px"></div>
+                            <div class="mb-3">
+                                <div class="w-100 d-flex mb-3">
+                                    <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                                    <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                                </div>
+                                <div class="w-100 d-flex mb-3">
+                                    <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                                    <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                                </div>
+                                <div class="w-100 d-flex mb-3">
+                                    <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                                    <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                                </div>
+                            </div>
+                            <div class="w-50 bg-pulse-grey h6 mb-3 mt-2" style="height: 18px"></div>
+                            <div class="mb-4">
+                                <div class="w-100 d-flex mb-2 align-items-center">
+                                    <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                                    <div class="bg-pulse-grey w-25 ml-2" style="height: 18px"></div>
+                                </div>
+                                <div class="w-100 d-flex mb-2 align-items-center">
+                                    <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                                    <div class="bg-pulse-grey w-25 ml-2" style="height: 18px"></div>
+                                </div>
+                            </div>
+                            <div class="w-25 bg-pulse-grey h6 mb-3 mt-2" style="height: 18px"></div>
+                            <div class="mb-3">
+                                <div class="w-100 d-flex mb-2 align-items-center">
+                                    <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                                    <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                                </div>
+                            </div>
+                        </div>                    </div>
+                </div>            </div>
+            <div class="footer-container position-relative" data-region="footer-container">
+                
+                <div
+                    class="hidden border-top bg-white position-relative"
+                    aria-hidden="true"
+                    data-region="view-conversation"
+                    data-enter-to-send="1"
+                >
+                    <div class="hidden p-sm-2" data-region="content-messages-footer-container">
+                        
+                            <div
+                                class="emoji-auto-complete-container w-100 hidden"
+                                data-region="emoji-auto-complete-container"
+                                aria-live="polite"
+                                aria-hidden="true"
+                            >
+                            </div>
+                        <div class="d-flex mt-sm-1">
+                            <textarea
+                                dir="auto"
+                                data-region="send-message-txt"
+                                class="form-control bg-light"
+                                rows="3"
+                                data-auto-rows
+                                data-min-rows="3"
+                                data-max-rows="5"
+                                aria-label="Escribe un mensaje..."
+                                placeholder="Escribe un mensaje..."
+                                style="resize: none"
+                                maxlength="4096"
+                            ></textarea>
+                        
+                            <div class="position-relative d-flex flex-column">
+                                    <div
+                                        data-region="emoji-picker-container"
+                                        class="emoji-picker-container hidden"
+                                        aria-hidden="true"
+                                    >
+                                        
+                                        <div
+                                            data-region="emoji-picker"
+                                            class="card shadow emoji-picker"
+                                        >
+                                            <div class="card-header px-1 pt-1 pb-0 d-flex justify-content-between flex-shrink-0">
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0 selected"
+                                                    data-action="show-category"
+                                                    data-category="Recent"
+                                                    title="Reciente"
+                                                >
+                                                    <i class="icon fa fa-clock-o fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Smileys & Emotion"
+                                                    title="Caritas sonrientes y emociones"
+                                                >
+                                                    <i class="icon fa fa-smile-o fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="People & Body"
+                                                    title="Personas y cuerpo"
+                                                >
+                                                    <i class="icon fa fa-male fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Animals & Nature"
+                                                    title="Animales y naturaleza"
+                                                >
+                                                    <i class="icon fa fa-leaf fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Food & Drink"
+                                                    title="Comida y bebida"
+                                                >
+                                                    <i class="icon fa fa-cutlery fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Travel & Places"
+                                                    title="Viaje y lugares"
+                                                >
+                                                    <i class="icon fa fa-plane fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Activities"
+                                                    title="Actividades"
+                                                >
+                                                    <i class="icon fa fa-futbol-o fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Objects"
+                                                    title="Objetos"
+                                                >
+                                                    <i class="icon fa fa-lightbulb-o fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Symbols"
+                                                    title="Símbolos"
+                                                >
+                                                    <i class="icon fa fa-heart fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                                <button
+                                                    class="btn btn-outline-secondary icon-no-margin category-button rounded-0"
+                                                    data-action="show-category"
+                                                    data-category="Flags"
+                                                    title="Banderas"
+                                                >
+                                                    <i class="icon fa fa-flag fa-fw " aria-hidden="true"  ></i>
+                                                </button>
+                                            </div>
+                                            <div class="card-body p-2 d-flex flex-column overflow-hidden">
+                                                <div class="input-group mb-1 flex-shrink-0">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text pr-0 bg-white text-muted">
+                                                            <i class="icon fa fa-search fa-fw " aria-hidden="true"  ></i>
+                                                        </span>
+                                                    </div>
+                                                    <input
+                                                        type="text"
+                                                        class="form-control border-left-0"
+                                                        placeholder="Buscar"
+                                                        aria-label="Buscar"
+                                                        data-region="search-input"
+                                                    >
+                                                </div>
+                                                <div class="flex-grow-1 overflow-auto emojis-container h-100" data-region="emojis-container">
+                                                    <div class="position-relative" data-region="row-container"></div>
+                                                </div>
+                                                <div class="flex-grow-1 overflow-auto search-results-container h-100 hidden" data-region="search-results-container">
+                                                    <div class="position-relative" data-region="row-container"></div>
+                                                </div>
+                                            </div>
+                                            <div
+                                                class="card-footer d-flex flex-shrink-0"
+                                                data-region="footer"
+                                            >
+                                                <div class="emoji-preview" data-region="emoji-preview"></div>
+                                                <div data-region="emoji-short-name" class="emoji-short-name text-muted text-wrap ml-2"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button
+                                        class="btn btn-link btn-icon icon-size-3 ml-1"
+                                        aria-label="Selector de emoticono"
+                                        data-action="toggle-emoji-picker"
+                                    >
+                                        <i class="icon fa fa-smile-o fa-fw " aria-hidden="true"  ></i>
+                                    </button>
+                                <button
+                                    class="btn btn-link btn-icon icon-size-3 ml-1 mt-auto"
+                                    aria-label="Enviar mensaje"
+                                    data-action="send-message"
+                                >
+                                    <span data-region="send-icon-container"><i class="icon fa fa-paper-plane fa-fw " aria-hidden="true"  ></i></span>
+                                    <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden p-sm-2" data-region="content-messages-footer-edit-mode-container">
+                        
+                        <div class="d-flex p-3 justify-content-end">
+                            <button
+                                class="btn btn-link btn-icon my-1 icon-size-4"
+                                data-action="delete-selected-messages"
+                                data-toggle="tooltip"
+                                data-placement="top"
+                                title="Eliminar mensajes seleccionados"
+                            >
+                                <span data-region="icon-container"><i class="icon fa fa-trash fa-fw " aria-hidden="true"  ></i></span>
+                                <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                                <span class="sr-only">Eliminar mensajes seleccionados</span>
+                            </button>
+                        </div>                    </div>
+                    <div class="hidden bg-secondary p-sm-3" data-region="content-messages-footer-require-contact-container">
+                        
+                        <div class="p-3 bg-white">
+                            <p data-region="title"></p>
+                            <p class="text-muted" data-region="text"></p>
+                            <button type="button" class="btn btn-primary btn-block" data-action="request-add-contact">
+                                <span data-region="dialogue-button-text">Enviar solicitud de contacto</span>
+                                <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="hidden bg-secondary p-sm-3" data-region="content-messages-footer-require-unblock-container">
+                        
+                        <div class="p-3 bg-white">
+                            <p class="text-muted" data-region="text">Ha bloqueado a este usuario.</p>
+                            <button type="button" class="btn btn-primary btn-block" data-action="request-unblock">
+                                <span data-region="dialogue-button-text">Desbloquear usuario</span>
+                                <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw "  title="Cargando" role="img" aria-label="Cargando"></i></span>
+</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="hidden bg-secondary p-sm-3" data-region="content-messages-footer-unable-to-message">
+                        
+                        <div class="p-3 bg-white">
+                            <p class="text-muted" data-region="text">No puedes enviar mensajes a este usuario</p>
+                        </div>
+                    </div>
+                    <div class="p-sm-2" data-region="placeholder-container">
+                        <div class="d-flex">
+                            <div class="bg-pulse-grey w-100" style="height: 80px"></div>
+                            <div class="mx-2 mb-2 align-self-end bg-pulse-grey" style="height: 20px; width: 20px"></div>
+                        </div>                    </div>
+                    <div
+                        class="hidden position-absolute z-index-1"
+                        data-region="confirm-dialogue-container"
+                        style="top: -1px; bottom: 0; right: 0; left: 0; background: rgba(0,0,0,0.3);"
+                    ></div>
+                </div>                    <div data-region="view-overview" class="text-center">
+                        <a href="https://uvirtual.uisrael.edu.ec/message/index.php">
+                            Ver todo
+                        </a>
+                    </div>
+            </div>
+        </div>
+
+</div>
+<footer id="page-footer" class="d-none d-lg-block">
+
+<div id="course-footer"></div><div class="container blockplace1"><div class="row"><div class="left-col col-12"><p style="text-align:center;" dir="ltr"> </p>
+<p style="text-align:center;" dir="ltr"> </p>
+<p style="text-align:center;"> <br />©2022 Universidad Tecnológica Israel</p>
+<p style="text-align:center;">Quito - Ecuador</p>
+<p style="text-align:center;"><em>Francisco Pizarro E4-142 Y AV. Orellana - Diagonal al Colegio Militar Eloy Alfaro</em></p>
+<p style="text-align:center;"><em>Telf: 2555-741</em></p>
+<p style="text-align:center;"><em>Adm: </em><em>DF / AM</em><br /> </p>
+<p> </p>
+<p> </p></div></div></div>    <div class="info container2 clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="tool_usertours-resettourcontainer"></div>
+                <div class="col-md-4 my-md-0 my-2 helplink"></div>                <div class="col-md-4 my-md-0 my-2">
+                    <div class="tool_dataprivacy"><a href="https://uvirtual.uisrael.edu.ec/admin/tool/dataprivacy/summary.php">Resumen de retención de datos</a></div><a href="https://download.moodle.org/mobile?version=2022112801.06&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Descargar la app para dispositivos móviles</a>                </div>
+            </div>
+            <div class="row"><div class="col-12 my-md-0 my-2"></div>        </div>
+    </div>
+</footer>
+
+<div id="back-to-top"><i class="fa fa-angle-up "></i></div>
+
+</div></div><script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://uvirtual.uisrael.edu.ec/lib/requirejs.php/1679436805/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/jquery/jquery-3.6.1.min',
+        jqueryui: 'https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/jquery/ui-1.13.2/jquery-ui.min',
+        jqueryprivate: 'https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://uvirtual.uisrael.edu.ec/lib/javascript.php/1679436805/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('es');
+});;
+M.util.js_pending('core/network'); require(['core/network'], function(amd) {amd.keepalive(2880, 0, "Su sesi\u00f3n ha excedido el tiempo l\u00edmite. Por favor, acceda de nuevo."); M.util.js_complete('core/network');});;
+M.util.js_pending('theme_adaptable/adaptable'); require(['theme_adaptable/adaptable'], function(amd) {amd.init(); M.util.js_complete('theme_adaptable/adaptable');});;
+M.util.js_pending('theme_adaptable/bsoptions'); require(['theme_adaptable/bsoptions'], function(amd) {amd.init({"stickynavbar":true}); M.util.js_complete('theme_adaptable/bsoptions');});;
+M.util.js_pending('theme_adaptable/drawer'); require(['theme_adaptable/drawer'], function(amd) {amd.init(); M.util.js_complete('theme_adaptable/drawer');});;
+M.util.js_pending('theme_adaptable/zoomin'); require(['theme_adaptable/zoomin'], function(amd) {amd.init(); M.util.js_complete('theme_adaptable/zoomin');});;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6445ee7d36e426445ee7d238905";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+require(
+[
+    'jquery',
+],
+function(
+    $
+) {
+    var uniqid = "6445ee7d371766445ee7d238906";
+    var container = $('#searchinput-navbar-' + uniqid);
+    var opensearch = container.find('[data-action="opensearch"]');
+    var input = container.find('[data-region="input"]');
+    var submit = container.find('[data-action="submit"]');
+
+    submit.on('click', function(e) {
+        if (input.val() === '') {
+            e.preventDefault();
+        }
+    });
+    container.on('hidden.bs.collapse', function() {
+        opensearch.removeClass('d-none');
+        input.val('');
+    });
+    container.on('show.bs.collapse', function() {
+        opensearch.addClass('d-none');
+    });
+    container.on('shown.bs.collapse', function() {
+        input.focus();
+    });
+});
+;
+
+require(['jquery', 'message_popup/notification_popover_controller'], function($, Controller) {
+    var container = $('#nav-notification-popover-container');
+    var controller = new Controller(container);
+    controller.registerEventListeners();
+    controller.registerListNavigationEventListeners();
+});
+;
+
+require(
+[
+    'jquery',
+    'core_message/message_popover'
+],
+function(
+    $,
+    Popover
+) {
+    var toggle = $('#message-drawer-toggle-6445ee7d38c816445ee7d238908');
+    Popover.init(toggle);
+});
+;
+
+        require(['jquery', 'core/custom_interaction_events'], function($, CustomEvents) {
+            CustomEvents.define('#jump-to-activity', [CustomEvents.events.accessibleChange]);
+            $('#jump-to-activity').on(CustomEvents.events.accessibleChange, function() {
+                if (!$(this).val()) {
+                    return false;
+                }
+                $('#url_select_f6445ee7d238909').submit();
+            });
+        });
+    ;
+M.util.js_pending('theme_adaptable/showsidebar'); require(['theme_adaptable/showsidebar'], function(amd) {amd.init(); M.util.js_complete('theme_adaptable/showsidebar');});;
+
+require(['jquery', 'core_message/message_drawer', 'core_message/message_popover'], function($, MessageDrawer, Popover) {
+    var root = $('#message-drawer-6445ee7d39ee66445ee7d2389010');
+    MessageDrawer.init(root);
+
+    var toggle = $('#message-drawer-close-6445ee7d39ee66445ee7d2389010');
+    Popover.init(toggle);
+});
+;
+M.util.js_pending('qtype_multichoice/answers'); require(['qtype_multichoice/answers'], function(amd) {amd.init("question-15781-1"); M.util.js_complete('qtype_multichoice/answers');});;
+M.util.js_pending('qtype_multichoice/clearchoice'); require(['qtype_multichoice/clearchoice'], function(amd) {amd.init("question-15781-1", "q15781:1_clearchoice"); M.util.js_complete('qtype_multichoice/clearchoice');});;
+M.util.js_pending('core_form/submit'); require(['core_form/submit'], function(amd) {amd.init("mod_quiz-next-nav"); M.util.js_complete('core_form/submit');});;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(36771, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.yui.add_module({"core_question_engine":{"name":"core_question_engine","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/question\/qengine.js","requires":["node","event"]},"mod_quiz":{"name":"mod_quiz","fullpath":"https:\/\/uvirtual.uisrael.edu.ec\/lib\/javascript.php\/1679436805\/mod\/quiz\/module.js","requires":["base","dom","event-delegate","event-key","core_question_engine"]}});
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"\u00daltima modificaci\u00f3n","name":"Nombre","error":"Error","info":"Informaci\u00f3n","yes":"S\u00ed","no":"No","cancel":"Cancelar","confirm":"Confirmar","areyousure":"\u00bfEst\u00e1 seguro?","closebuttontitle":"Cerrar","unknownerror":"Error desconocido","file":"Archivo","url":"URL","collapseall":"Colapsar todo","expandall":"Expandir todo"},"repository":{"type":"Tipo","size":"Tama\u00f1o","invalidjson":"Cadena JSON no v\u00e1lida","nofilesattached":"No se han adjuntado archivos","filepicker":"Selector de archivos","logout":"Salir","nofilesavailable":"No hay archivos disponibles","norepositoriesavailable":"Lo sentimos, ninguno de sus repositorios actuales puede devolver archivos en el formato solicitado.","fileexistsdialogheader":"El archivo existe","fileexistsdialog_editor":"Un archivo con ese nombre ha sido anexado al texto que Usted est\u00e1 editando","fileexistsdialog_filemanager":"Ya ha sido anexado un archivo con ese nombre","renameto":"Cambiar el nombre a \"{$a}\"","referencesexist":"Existen {$a} enlaces a este archivo","select":"Seleccionar"},"admin":{"confirmdeletecomments":"Est\u00e1 a punto de eliminar comentarios, \u00bfest\u00e1 seguro?","confirmation":"Confirmaci\u00f3n"},"question":{"flagged":"Marcadas"},"quiz":{"functiondisabledbysecuremode":"Esta funcionalidad est\u00e1 actualmente deshabilitada","startattempt":"Comenzar intento","timesup":"\u00a1Se ha pasado el tiempo!"},"debug":{"debuginfo":"Informaci\u00f3n de depuraci\u00f3n","line":"L\u00ednea","stacktrace":"Trazado de la pila (stack)"},"langconfig":{"labelsep":":"}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"es"});
+});
+Y.use("moodle-mod_quiz-autosave",function() {M.mod_quiz.autosave.init("60");
+});
+ M.util.js_pending('random6445ee7d238901'); Y.use('core_question_flags', function(Y) { M.core_question_flags.init(Y, "https:\/\/uvirtual.uisrael.edu.ec\/question\/toggleflag.php", [{"src":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/image.php\/adaptable\/core\/1679436805\/i\/unflagged","title":"Marcar esta pregunta para su referencia futura","alt":"Marcadas","text":"Marcar pregunta"},{"src":"https:\/\/uvirtual.uisrael.edu.ec\/theme\/image.php\/adaptable\/core\/1679436805\/i\/flagged","title":"Desmarcar","alt":"Marcadas","text":"Desmarcar"}]);  M.util.js_complete('random6445ee7d238901'); });
+ M.util.js_pending('random6445ee7d238902'); Y.use('mod_quiz', function(Y) { M.mod_quiz.init_attempt_form(Y);  M.util.js_complete('random6445ee7d238902'); });
+ M.util.js_pending('random6445ee7d238903'); Y.use('mod_quiz', function(Y) { M.mod_quiz.nav.init(Y);  M.util.js_complete('random6445ee7d238903'); });
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random6445ee7d2389011'); Y.use('mod_quiz', function(Y) { M.mod_quiz.timer.init(Y, 833, false);  M.util.js_complete('random6445ee7d2389011'); });
+ M.util.js_pending('random6445ee7d2389012'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random6445ee7d2389012'); });
+})();
+//]]>
+</script>
+<script type="text/javascript">
+    M.util.js_pending('theme_boost/loader');
+        require(['theme_boost/loader'], function() {
+        M.util.js_complete('theme_boost/loader');
+    });
+</script>
+</body>
+</html>
